@@ -1,3 +1,9 @@
+# ionic-angular-admin-panel
+
+Admin panel template based on my ["site boilerplate"](https://github.com/mikoweb/ionic-angular-site).
+
+Work in progress...
+
 # ionic-angular-site
 
 Site boilerplate in Ionic and Angular with MVC and CQRS using native browser Web Components.
